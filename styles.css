@@ -1,0 +1,47 @@
+#quoteBox {
+    font-family: 'Source Sans Pro';
+    padding: 5%;
+    border-radius: 5px;
+    margin-top: 25%;
+    background-color: white;
+}
+
+#author {
+    font-weight: bold;
+}
+
+#tweet {
+    font-weight: bold;
+    font-size: 1.25em;
+    cursor: pointer;
+    margin-right: 0;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#newQuote {
+    margin-top: 5%;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+
+.btn:focus {
+    color: white;
+    outline: none;
+}
+
+.btn:hover {
+    color: white;
+}
+
+.btn {
+    color: white;
+    padding: 5%;
+    font-size: 1.25em;
+    font-weight: bold;
+}
